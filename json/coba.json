@@ -1,0 +1,9 @@
+[
+	{ 
+		"nama" : "Ardiana Juniawan Salim",
+		"umur" : 20,
+		"nrp" : "173040116",
+		"lulus" : true,
+		"hobby" : ["gaming", "traveller"]
+	}
+]
